@@ -1,0 +1,261 @@
+img {
+    border-radius: 20px;
+}
+
+.h1 {
+    color: white;
+    text-align: center;
+}
+
+.h4 {
+    color: aqua;
+    
+}
+.li {
+    color: yellow;
+}
+
+.imagem101 {
+    background-image: url(fundo1.jpg);
+    width: 100%;
+    height: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+   
+}
+
+.imagem102 {
+    background-image: url(fundo2.jpg);
+    width: 100%;
+    height: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+   
+}
+
+.imagem103 {
+    background-image: url(fundo3.jpg);
+    width: 100%;
+    height: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+   
+}
+
+.imagem104 {
+    background-image: url(fundo4.jpg);
+    width: 100%;
+    height: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+   
+}
+
+.imagem105 {
+    background-image: url(fundo5.jpg);
+    width: 100%;
+    height: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+   
+}
+
+.imagem106 {
+    background-image: url(fundo6.jpg);
+    width: 100%;
+    
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+   
+}
+
+.imagem107 {
+    background-image: url(fundo8.jpg);
+    width: 100%;
+    height: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+   
+}
+
+.imagem109 {
+    background-image: url(fundo9.jpg);
+    width: 100%;
+    height: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+   
+}
+
+.imagem110 {
+    background-image: url(fundo10.jpg);
+    width: 100%;
+    height: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+   
+}
+
+.body1 {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.header1 {
+    background-color: #4CAF50;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+
+
+.product {
+    border: 1px solid black;
+    border-radius: 20px;
+    padding: 20px;
+    margin: 280px;
+    margin-top: 50px;
+    margin-bottom: 20px;
+    text-align: center;
+    background-color: purple;
+    
+}
+
+.product1 {
+    border: 1px solid black;
+    border-radius: 20px;
+    padding: 20px;
+    margin: 500px;
+    margin-top: 50px;
+    margin-bottom: 20px;
+    text-align: center;
+    background-color: purple;
+    text-shadow: 20px;
+    
+}
+
+.product2 {
+    border: 1px solid black;
+    border-radius: 20px;
+    padding: 20px;
+    margin: 180px;
+    margin-top: 5px;
+    margin-bottom: 20px;
+    text-align: center;
+    background-color: purple;
+    text-shadow: 20px;
+    
+}
+
+.product21 {
+    border: 1px solid black;
+    border-radius: 20px;
+    padding: 20px;
+    margin: 40px;
+    margin-top: 5px;
+    margin-bottom: 20px;
+    text-align: center;
+    background-color: black;
+    text-shadow: 20px;
+    
+}
+
+.product3 {
+    border: 1px solid black;
+    border-radius: 20px;
+    padding: 20px;
+    margin: 80px;
+    margin-top: 5px;
+    margin-bottom: 20px;
+    text-align: center;
+    background-color: gray;
+    
+}
+
+.product4 {
+    border: 1px solid black;
+    border-radius: 20px;
+    padding: 20px;
+    margin: 450px;
+    margin-top: 5px;
+    margin-bottom: 20px;
+    text-align: center;
+    background-color: purple;
+    
+}
+
+.product5 {
+    border: 1px solid black;
+    border-radius: 20px;
+    padding: 20px;
+    margin: 390px;
+    margin-top: 5px;
+    margin-bottom: 20px;
+    text-align: center;
+    background-color: purple;
+    
+}
+
+.product6 {
+    border: 1px solid black;
+    border-radius: 20px;
+    padding: 20px;
+    margin: 80px;
+    margin-top: 5px;
+    margin-bottom: 20px;
+    text-align: center;
+    background-color: black;
+    
+}
+
+.product7 {
+    border: 1px solid black;
+    border-radius: 20px;
+    padding: 20px;
+    margin: 380px;
+    margin-top: 5px;
+    margin-bottom: 20px;
+    text-align: center;
+    background-color: black;
+    
+}
+
+.product img {
+    max-width: 100%;
+    height: auto;
+}
+
+.price {
+    font-size: 1.2rem;
+    color: #4CAF50;
+    font-weight: bold;
+}
+
+.button {
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-size: 1rem;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.button:hover {
+    background-color: #45a049;
+}
+
+
+
+
